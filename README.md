@@ -3,8 +3,8 @@ GoogleBooksApiを使って見たサンプル
 
 今日見ているサイト集
 https://itsakura.com/csharp-form-textbox
-sample
-using System;
+サンプル
+システムを使用する。
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -33,6 +33,9 @@ namespace formtest1
         }
     }
 }
+//テキスタイル等の処理
+http://www.kisoplus.com/sample/button.html
+//ラベルのサイズ等の資料
+https://dobon.net/vb/dotnet/form/setdesktoplocation.html
 
-
-
+http://ufcpp.net/study/csharp/lib_forms.html
